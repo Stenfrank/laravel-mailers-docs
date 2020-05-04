@@ -1,0 +1,14 @@
+{
+    "name": "laravel-mailers-docs",
+    "version": "1.0.0",
+    "description": "Official documentation of laravel-mailers.",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs"
+    },
+    "dependencies": {
+        "global": "^4.3.2",
+        "vuepress": "^1.4.0"
+    }
+}
